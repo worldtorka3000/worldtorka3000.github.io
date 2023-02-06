@@ -31,10 +31,10 @@ h1 {
     font-size: 20px;
     line-height: 250px;
     width: 40px;
-    color: #fff;
+    color: #000;
     transition: all 600ms ease-in-out;
-    background: linear-gradient(to left, transparent 0%, black 200%);
-    opacity: 0.1;
+    background: #fff;
+    opacity: 1;
     cursor: pointer;
     border: none;
 }
@@ -48,7 +48,7 @@ h1 {
     right: 0;
     left: auto;
     text-align: right;
-    background: linear-gradient(to right, transparent 0%, black 200%);
+    background: #fff;
 }
 
 .gallery {
