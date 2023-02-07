@@ -12,7 +12,7 @@ h1 {
 
 .container {
     position: relative;
-    padding: 15px;
+    padding: 17px;
     max-width: 640px;
     margin: 0 auto;
 }
@@ -28,7 +28,7 @@ h1 {
     left: 0;
     right: auto;
     bottom: 0;
-    font-size: 20px;
+    font-size: 28px;
     line-height: 250px;
     width: 40px;
     color: #000;
